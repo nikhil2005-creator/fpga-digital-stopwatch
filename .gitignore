@@ -1,0 +1,23 @@
+# Vivado project and run output
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.bit
+*.bin
+*.ltx
+*.dcp
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/sources_1/ip/
+*.xpr
+*.backup.*
+
+# Local simulator outputs
+sim/stopwatch_sim
+sim/stopwatch_sim.out
